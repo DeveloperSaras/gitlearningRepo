@@ -13,6 +13,10 @@ Text line three
 
 Text line five
 
+
 Text line six
 
 Change done.
+
+New line 6
+
