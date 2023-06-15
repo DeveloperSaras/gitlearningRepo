@@ -1,3 +1,7 @@
 This repository is created so that I can do changes and learn various git commands.
 
+<<<<<<< Updated upstream
 text line two
+=======
+text line one
+>>>>>>> Stashed changes
