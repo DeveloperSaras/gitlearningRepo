@@ -1,7 +1,7 @@
 This is a sample file
 
-<<<<<<< Updated upstream
+
 text line two
-=======
+
 Text line one
->>>>>>> Stashed changes
+
