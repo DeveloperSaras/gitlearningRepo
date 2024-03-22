@@ -23,8 +23,5 @@ New line 6
 
 This change is done on 22nd of march 2024
 This is another change done on 22nd of march 2024
-<<<<<<< Updated upstream
 This change is done directly in the remote repo
-=======
 This is one more change done on 22nd of march 2024
->>>>>>> Stashed changes
